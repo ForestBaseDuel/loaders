@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/7-days-cat-sitting-spam5-cak4v2pbf0x2cb.lua"))()
