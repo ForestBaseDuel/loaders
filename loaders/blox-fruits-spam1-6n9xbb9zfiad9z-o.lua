@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/blox-fruits-spam1-6n9xbb9zfiad9z.lua"))()
