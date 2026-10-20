@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/hitbox-changes-azure-latch-spam1-y25s6udjg1elfz.lua"))()
