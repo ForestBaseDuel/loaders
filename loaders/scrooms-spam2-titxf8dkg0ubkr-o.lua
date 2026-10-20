@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/scrooms-spam2-titxf8dkg0ubkr.lua"))()
