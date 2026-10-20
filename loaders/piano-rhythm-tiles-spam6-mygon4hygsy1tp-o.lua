@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/piano-rhythm-tiles-spam6-mygon4hygsy1tp.lua"))()
