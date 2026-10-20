@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/my-anime-mine-spam6-w52hcl3xh07l1s.lua"))()
