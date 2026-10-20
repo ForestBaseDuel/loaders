@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/upd-command-an-army-spam3-albl5e7ggzfoir.lua"))()
