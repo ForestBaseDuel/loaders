@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/dead-rails-spam5-5fm9gvprggjq31.lua"))()
