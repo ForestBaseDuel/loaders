@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/build-a-soccer-club-spam3-f6fj745tgyt750.lua"))()
