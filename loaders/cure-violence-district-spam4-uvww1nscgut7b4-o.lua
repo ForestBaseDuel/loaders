@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/cure-violence-district-spam4-uvww1nscgut7b4.lua"))()
