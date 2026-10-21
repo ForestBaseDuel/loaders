@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/mafuba-anime-astral-simulator-spam1-rvqrbd85iise32.lua"))()
