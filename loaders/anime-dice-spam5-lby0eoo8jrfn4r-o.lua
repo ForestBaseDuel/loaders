@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/anime-dice-spam5-lby0eoo8jrfn4r.lua"))()
