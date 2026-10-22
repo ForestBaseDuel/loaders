@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/harpoon-a-fish-spam5-brrskcaajoewiw.lua"))()
