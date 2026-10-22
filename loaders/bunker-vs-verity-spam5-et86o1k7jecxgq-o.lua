@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/bunker-vs-verity-spam5-et86o1k7jecxgq.lua"))()
