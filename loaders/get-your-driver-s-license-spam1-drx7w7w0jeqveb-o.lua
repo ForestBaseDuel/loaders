@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/get-your-driver-s-license-spam1-drx7w7w0jeqveb.lua"))()
