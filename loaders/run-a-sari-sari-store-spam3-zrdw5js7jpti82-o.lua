@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/run-a-sari-sari-store-spam3-zrdw5js7jpti82.lua"))()
