@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/drive-a-tuk-tuk-spam5-ipixn89fkx4ke0.lua"))()
