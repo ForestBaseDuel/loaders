@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/build-and-conquer-v0-1-spam2-nj3jzceumfqwgv.lua"))()
