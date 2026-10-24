@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/hired-killer-jujutsu-shenanigans-spam4-tz5q3mlmn0ynx4.lua"))()
