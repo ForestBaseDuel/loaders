@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/paint-to-get-rich-spam6-fj0tn3cpmfu1go.lua"))()
