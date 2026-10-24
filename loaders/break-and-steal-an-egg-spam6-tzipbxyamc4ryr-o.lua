@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/break-and-steal-an-egg-spam6-tzipbxyamc4ryr.lua"))()
