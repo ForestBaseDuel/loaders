@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/he-ate-them-horror-spam7-nr0em4qcmavlh5.lua"))()
