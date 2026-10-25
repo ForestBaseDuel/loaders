@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/beta-buddytime-spam1-6fl157bio7l801.lua"))()
