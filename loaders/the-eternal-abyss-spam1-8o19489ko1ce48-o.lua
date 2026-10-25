@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/the-eternal-abyss-spam1-8o19489ko1ce48.lua"))()
