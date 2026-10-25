@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/anniversary-daybreak-spam2-ww1eswlyo41fl2.lua"))()
