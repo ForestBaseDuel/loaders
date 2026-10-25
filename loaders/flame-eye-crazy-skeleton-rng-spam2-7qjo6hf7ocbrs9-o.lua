@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/flame-eye-crazy-skeleton-rng-spam2-7qjo6hf7ocbrs9.lua"))()
