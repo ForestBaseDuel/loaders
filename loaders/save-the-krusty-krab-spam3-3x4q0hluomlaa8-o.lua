@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/save-the-krusty-krab-spam3-3x4q0hluomlaa8.lua"))()
